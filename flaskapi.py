@@ -1,5 +1,5 @@
 
-# two or more data in flask post push put delete method 
+# two or more data in flask post get put delete method 
 
 from flask import Flask , request , jsonify
 
